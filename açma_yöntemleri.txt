@@ -1,0 +1,17 @@
+Açmak için önce bu dosyaları ana dizine atmanız gerek 
+ondan sonra bu komutla:
+ 
+chmod +x minios.sh arac.py
+./minios.sh
+
+çalıştırma izni vermeniz gerek.
+verdikten sonra ise en altındaki 
+./minios.sh komutu ile başlatabilirsiniz 
+özellikler:
+1)python toolbox 
+2)sistem bilgisi
+3)çekirdek bilgisi ve optimize etme
+
+NOT:bu kodlar sadece linuxda çalışır 
+ve olmazssa gerekli kütüphaneleri kurmanız gerek 
+en önemlisi olan python 3 paketini kurmanız gerek
